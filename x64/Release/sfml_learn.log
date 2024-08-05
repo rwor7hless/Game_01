@@ -1,0 +1,19 @@
+﻿  Entity.cpp
+  EntityManager.cpp
+C:\Users\PC\source\repos\sfml_learn\sfml_learn\Components.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Entity.cpp")
+  
+C:\Users\PC\source\repos\sfml_learn\sfml_learn\Components.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "EntityManager.cpp")
+  
+  Game.cpp
+C:\Users\PC\source\repos\sfml_learn\sfml_learn\Components.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Game.cpp")
+  
+  GameEngine.cpp
+C:\Users\PC\source\repos\sfml_learn\sfml_learn\Components.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "GameEngine.cpp")
+  
+  main.cpp
+C:\Users\PC\source\repos\sfml_learn\sfml_learn\main.cpp(1,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Vec2.cpp
